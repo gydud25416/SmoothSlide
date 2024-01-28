@@ -3,7 +3,7 @@ html{scroll-behavior: smooth;}
 /* body{width:100%; height:100vh;} */
 
 .tt{position:fixed; top:40px; left:40px; background:red; color:#fff;}
-/* .window{width:100%; height:400vh; } */
+.window{ position:relative; top:0; transition: 1s ease-out; }
 
 
 
